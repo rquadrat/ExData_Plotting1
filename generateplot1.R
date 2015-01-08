@@ -1,3 +1,5 @@
+##Plotting routine for plot1.png using the base plotting system
+
 generateplot1<-function(data)
 {
     png("plot1.png")
